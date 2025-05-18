@@ -25,7 +25,7 @@ JSONPlaceholder API
 📦 Installation
 Clone the repository
 
-git clone https://github.com/your-username/react-posts-app.git
+git clone https://github.com/Shreyaraj22/POST-APP.git
 cd react-posts-app
 Install dependencies
 
